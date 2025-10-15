@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a student at the North Carolina School of Science and Mathematics
+<br>
+I enjoy coding and messing around with technology. I'm currenly learning about AI models
